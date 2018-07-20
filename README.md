@@ -1,0 +1,2 @@
+# AndroidIgnore
+AndroidIgnore
